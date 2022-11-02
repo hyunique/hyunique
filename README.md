@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Elena and I'm a Front-end Developer. Right now I am focusing on learning everything that is related to Web Development. 
 <!--
 **Hyunique/hyunique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
