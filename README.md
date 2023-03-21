@@ -38,6 +38,8 @@ My name is Elena and I'm a Front-end Developer. Right now I am focusing on learn
 
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333?style=flat-square&logo=adobe-photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-333?style=flat-square&logo=adobe-illustrator)
+![Adobe Indesign](https://img.shields.io/badge/-Adobe%20Indesign-333?style=flat-square&logo=adobe-indesign)
 
 <!--
 **Hyunique/hyunique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
