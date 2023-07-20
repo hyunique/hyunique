@@ -1,8 +1,7 @@
 ### Hi there 👋
-My name is Elena. I'm a self taught Front-end Developer with a strong background in design. 
-I enjoy coming up with new ideas and making them come to life. Right now I am focusing on learning everything that is related to React.
+My name is Elena. I'm a self taught Front-end Developer with a strong background in design. I enjoy working with creative designs and making them come to life through my code. Right now I am focusing on learning everything that is related to React. Currently I am seeking an opportunity to leverage my creativity, technical expertise, and passion for coding to contribute to a dynamic software development team.
 
-My personal motto is; You can learn and do anything, if you want to.
+My personal motto: You can learn and do anything, if you want to.
 
 
 
