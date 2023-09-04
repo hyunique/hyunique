@@ -57,7 +57,8 @@ My personal motto: You can learn and do anything, if you want to.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src=="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src=="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        width="48"
         height="48"
         alt="Bootstrap"
       />
@@ -66,6 +67,7 @@ My personal motto: You can learn and do anything, if you want to.
     <td align="center" height="108" width="108">
       <img
         src=="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
+        width="48"
         height="48"
         alt="Bulma"
       />
