@@ -8,6 +8,92 @@ My personal motto: You can learn and do anything, if you want to.
 ---------------------------
 ### Technologies & Tools 
 <table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="Html"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="Css"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="Javascript"
+      />
+      <br /><strong>Javascript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src=="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src=="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
+        height="48"
+        alt="Bulma"
+      />
+      <br /><strong>Bulma</strong>
+    </td>
+    
+ 
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="NPM"
+      />
+      <br /><strong>NPM</strong>
+    </td>
+    
+  </tr>
+</table>
+<table>
   <tbody><tr>
     <td width="108" height="108" align="center">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"><img src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" alt="HTML" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;" width="48" height="48"></a>
