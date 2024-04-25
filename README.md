@@ -3,7 +3,9 @@ My name is Elena.  I'm a Front-End Developer with a solid design background. I t
 
 My personal motto: You can learn and do anything, if you want to.
 
-
+<a href="https://www.linkedin.com/in/elena-yi">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
 
 ---------------------------
 ### Technologies & Tools 
@@ -119,12 +121,17 @@ My personal motto: You can learn and do anything, if you want to.
 </table>
 
 
-### Additional Skills
+### Design Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333?style=flat-square&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-333?style=flat-square&logo=adobe-illustrator)
 ![Adobe Indesign](https://img.shields.io/badge/-Adobe%20Indesign-333?style=flat-square&logo=adobe-indesign)
+
+### Stats 
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=hyunique&theme=vue-dark&hide_border=true"
+/>
 
 <!--
 **Hyunique/hyunique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
