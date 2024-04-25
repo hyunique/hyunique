@@ -39,6 +39,15 @@ My personal motto: You can learn and do anything, if you want to.
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        width="48"
+        height="48"
+        alt="Vue"
+      />
+      <br /><strong>Vue</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
@@ -55,23 +64,23 @@ My personal motto: You can learn and do anything, if you want to.
       />
       <br /><strong>Sass</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"          
+        width="48"
+        height="48"
+        alt="Tailwindcss"
+      />
+      <br /><strong>TailwindCss</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
         width="48"
         height="48"
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
-        width="48"
-        height="48"
-        alt="Bulma"
-      />
-      <br /><strong>Bulma</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
