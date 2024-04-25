@@ -10,34 +10,7 @@ My personal motto: You can learn and do anything, if you want to.
 <table>
   <tbody>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="Html"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="Css"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="Javascript"
-      />
-      <br /><strong>Javascript</strong>
-    </td>
-    <td align="center" height="108" width="108">
+   <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
         width="48"
@@ -81,6 +54,37 @@ My personal motto: You can learn and do anything, if you want to.
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
+    </td>    
+     <td align="center" height="108" width="108">
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        width="48"
+        height="48"
+        alt="Html"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="Css"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="Javascript"
+      />
+      <br /><strong>Javascript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
