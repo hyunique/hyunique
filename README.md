@@ -88,10 +88,10 @@ My personal motto: You can learn and do anything, if you want to.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
         width="48"
         height="48"
-        alt="Javascript"
+        alt="Typescript"
       />
       <br /><strong>Javascript</strong>
     </td>
